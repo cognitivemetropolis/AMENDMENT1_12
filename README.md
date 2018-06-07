@@ -5,7 +5,7 @@ better will do) MicroSDHD card and a Raspberry Pi 3.  Both of these pieces of ha
 of choice. We recommend NewEgg, Fry's Electronics, or MicroCenter. You will also need a computer.  To make things super-easy, we'll
 assume you have access to a computer where you can install apps, download files, and insert a MicroSDHD card.  Here are the steps:
 
-1) Download the AMENDMENT1 OS v1.0 from "Releases" in this site.  It is an ".img" file in ".zip" ready to 
+1) Download the AMENDMENT1 OS v1.12 from "Releases" in this site.  It is an ".img" file in ".zip" ready to 
 be "burned" onto the MicroSDHD card.  Once downloaded, extract from Zip with common desktop tools.  
 https://github.com/cognitivemetropolis/AMENDMENT1_12/releases
 

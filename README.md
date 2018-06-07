@@ -7,7 +7,7 @@ assume you have access to a computer where you can install apps, download files,
 
 1) Download the AMENDMENT1 OS v1.0 from "Releases" in this site.  It is an ".img" file in ".zip" ready to 
 be "burned" onto the MicroSDHD card.  Once downloaded, extract from Zip with common desktop tools.  
-https://github.com/cognitivemetropolis/AMENDMENT1_1.12/releases
+https://github.com/cognitivemetropolis/AMENDMENT1_12/releases
 
 2) Download Etcher from https://www.etcher.io  It is the easiest tool to burn .img files and cross-platform as well.  
 
